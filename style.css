@@ -25,7 +25,7 @@ body{
 
 .hand{
     width: 50%;
-    height: 6px;
+    height: 5px;
     background: #fff;
     position: absolute;
     top: 51%;
@@ -35,7 +35,7 @@ body{
 }
 
 .second-hand{
-    height: 2px;
+    height: 3px;
     background: red;
 }
 
@@ -72,3 +72,21 @@ body{
             height: 8px;
         }
     }
+
+.time{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    background: #bc09d3;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
+@media (max-width: 400px) {
+    .time{
+        font-size: 18px;
+    }
+}
