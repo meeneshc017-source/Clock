@@ -1,46 +1,46 @@
-⏰ JavaScript Digital Clock
+# ⏰ JavaScript Digital Clock
 
 A simple real-time digital clock built using HTML, CSS, and JavaScript.
 This project displays the current time (hours, minutes, seconds) and includes a rotating second hand animation.
 
-🚀 Features
+## 🚀 Features
 
-Displays real-time clock (HH:MM:SS)
+- Displays real-time clock (HH:MM:SS)
 
-Updates automatically every second
+- Updates automatically every second
 
-Uses JavaScript Date() object
+- Uses JavaScript Date() object
 
-Smooth rotation animation for the second hand
+- Smooth rotation animation for the second hand
 
-Beginner-friendly and easy to understand
+- Beginner-friendly and easy to understand
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-HTML – Structure
+- HTML – Structure
 
-CSS – Styling & rotation animation
+- CSS – Styling & rotation animation
 
-JavaScript – Logic & time handling
+- JavaScript – Logic & time handling
 
-📚 Concepts Covered
+## 📚 Concepts Covered
 
-Date() object
+- Date() object
 
-getHours(), getMinutes(), getSeconds()
+- getHours(), getMinutes(), getSeconds()
 
-setInterval()
+- setInterval()
 
-DOM manipulation
+- DOM manipulation
 
-CSS transform: rotate()
+- CSS transform: rotate()
 
-🧠 How It Works
+## 🧠 How It Works
 
-JavaScript fetches the current time using the Date object
+- JavaScript fetches the current time using the Date object
 
-Seconds are converted into degrees to rotate the clock hand
+- Seconds are converted into degrees to rotate the clock hand
 
-Time is formatted to always show two digits
+- Time is formatted to always show two digits
 
-setInterval() updates the clock every 1 second
+- setInterval() updates the clock every 1 second
