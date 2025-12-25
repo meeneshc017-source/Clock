@@ -34,3 +34,13 @@ setInterval()
 DOM manipulation
 
 CSS transform: rotate()
+
+🧠 How It Works
+
+JavaScript fetches the current time using the Date object
+
+Seconds are converted into degrees to rotate the clock hand
+
+Time is formatted to always show two digits
+
+setInterval() updates the clock every 1 second
