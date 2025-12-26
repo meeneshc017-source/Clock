@@ -9,7 +9,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #000;
+    background: url('bg\ image.jpeg');
+    background-size: cover;
 }
 
 .clock{
@@ -82,7 +83,7 @@ body{
     background: #bc09d3;
     padding: 10px 20px;
     border-radius: 5px;
-    font-size: 24px;
+    font-size: 40px;
     font-family: Arial, sans-serif;
 }
 
