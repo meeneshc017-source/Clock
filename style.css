@@ -85,6 +85,7 @@ body{
     font-size: 24px;
     font-family: Arial, sans-serif;
 }
+
 @media (max-width: 400px) {
     .time{
         font-size: 18px;
